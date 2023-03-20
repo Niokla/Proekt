@@ -1,0 +1,191 @@
+.question {
+    position: relative;
+    background-image: url(../../jpg/fon.png);
+    margin-top: 327px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 954px;
+}
+
+
+.question-fon {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%);
+}
+
+.question-input {
+    display: flex;
+    justify-content: center;
+    margin-top: -222px;
+
+}
+
+#question-form {
+    width: 883px;
+    height: 446px;
+    padding: 34px 181.5px;
+    background: #131313;
+    box-shadow: 0px 30px 30px rgba(0, 0, 0, 0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.head-form {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+.form-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-input {}
+
+.input-name {
+    display: flex;
+
+}
+
+.flex-name {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-phone {
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-email {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-titles {
+    color: #FFFFFF;
+    width: 235px;
+    height: 45px;
+    border: 1px solid #ccc;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    box-sizing: border-box;
+    background-color: #131313;
+    margin-top: -15px;
+}
+
+
+.form-titles-email {
+    color: #FFFFFF;
+    width: 520px;
+    height: 45px;
+    border: 1px solid #ccc;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    box-sizing: border-box;
+    background-color: #131313;
+    margin-top: -15px;
+}
+
+.input-2 {}
+
+.input-name-question {}
+
+.form-checked {
+    display: flex;
+    flex-direction: row;
+}
+
+.form-checked-input {
+    margin-top: 48px;
+}
+
+.checked-input-text {
+    margin-left: 5px;
+    margin-top: 48px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 163.68%;
+    /* or 23px */
+
+
+    color: #FFFFFF;
+}
+
+.form-button {
+    margin-top: 52px;
+    color: white;
+    width: 200px;
+    height: 51px;
+    border: none;
+    background: #E3B873;
+    box-shadow: 0px 15px 15px rgba(227, 184, 115, 0.15);
+    border-radius: 2px;
+}
+
+
+.titles-header {
+    margin-top: 46px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.5);
+    width: 140px;
+    z-index: 1;
+}
+
+.map {
+    margin-top: 52px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.map-head {
+    width: 589px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E3B873;
+    margin-bottom: 26px;
+}
+
+.map-link {
+    margin-bottom: 43px;
+}
+
+
+
+.footer {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background: #131313;
+}

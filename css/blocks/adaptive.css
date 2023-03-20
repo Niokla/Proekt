@@ -1,0 +1,624 @@
+ @media (max-width: 2500px) {
+     .container {
+         width: 100%;
+     }
+
+     .header {
+         width: 100%;
+     }
+
+     .img-1 {
+         margin-top: -15%;
+     }
+
+
+     .online-Control {
+         margin: 0;
+     }
+
+
+     .galery-img10 {
+         margin-top: -7%;
+     }
+
+     .galery-img9 {
+         margin-top: -85px
+     }
+ }
+
+
+
+ @media (max-width: 2080px) {
+
+     .img-1 {
+         margin-top: -19%;
+     }
+
+ }
+
+
+ @media (max-width: 1900px) {
+     .container {
+         width: 100%;
+     }
+
+     .header {
+         width: 100%;
+     }
+
+     .img-1 {
+         margin-top: -20%;
+     }
+
+     .heading-head-img-one {
+         display: flex;
+         flex-direction: column;
+     }
+
+     .online-Control {
+         margin: 0;
+     }
+
+
+     .galery-img10 {
+         margin-top: -7%;
+     }
+
+     .galery-img9 {
+         margin-top: -85px
+     }
+
+     .form-login {
+         margin-left: 255px;
+     }
+ }
+
+
+
+
+ @media (max-width: 1702px) {
+
+     .form-login {
+         margin-left: 165px;
+     }
+ }
+
+
+
+ @media (max-width: 1502px) {
+
+     .form-login {
+         margin-left: 70px;
+     }
+ }
+
+
+ @media (max-width: 1292px) {
+
+     .header-row {
+         margin-left: 15px;
+         margin-right: 15px;
+     }
+
+     .footer {
+         width: 100%;
+     }
+ }
+
+
+
+
+
+
+ @media (max-width: 375px) {
+
+     .header-nav {
+         display: none;
+     }
+
+     .button-Design {
+         display: none;
+     }
+
+     .header-row {
+         margin-left: 10px;
+         margin-right: 10px;
+     }
+
+     .home-content {
+         margin: 15px;
+     }
+
+     .fon-home {
+         height: 476px;
+         width: 375px;
+         left: 0px;
+         top: 57px;
+         border-radius: 0px;
+     }
+
+
+
+     .home-heading {
+         margin-top: 40px;
+         font-family: Yeseva One;
+         font-size: 40px;
+         font-weight: 400;
+         line-height: 53px;
+         letter-spacing: 0em;
+         text-align: left;
+
+         font-family: Yeseva One;
+         font-size: 23px;
+         font-weight: 400;
+         line-height: 31px;
+         letter-spacing: 0em;
+         text-align: left;
+     }
+
+     .home-text {
+         font-family: Nunito Sans;
+         font-size: 14px;
+         font-weight: 400;
+         line-height: 19px;
+         letter-spacing: 0em;
+         text-align: left;
+     }
+
+     .home-button {
+         flex-direction: column;
+     }
+
+     .button {
+         margin: 0%;
+         height: 51px;
+         width: 338.607421875px;
+         left: 18px;
+         top: 344px;
+         border-radius: 0px;
+
+     }
+
+     .button-to {
+         margin-left: 0;
+         margin-top: 20px;
+         height: 51px;
+         width: 338.607421875px;
+         left: 18px;
+         top: 421px;
+         border-radius: 0px;
+
+     }
+
+     .how-it-work-links {
+         display: none;
+     }
+
+     .image-vector {
+         display: none;
+     }
+
+     .image-jpg {
+         display: none;
+     }
+
+     .heading-big {
+         margin-left: 15px;
+         padding-top: 30px;
+     }
+
+     .heading-big-head {
+         height: 60px;
+         width: 339px;
+         left: 18px;
+         top: 142px;
+         border-radius: nullpx;
+
+         font-family: Yeseva One;
+         font-size: 22px;
+         font-weight: 400;
+         line-height: 30px;
+         letter-spacing: -0.07em;
+         text-align: center;
+
+     }
+
+
+     .how-it-works-oll {
+         flex-direction: column;
+     }
+
+     .image-how {
+         margin-left: 20px;
+         margin-top: -35%;
+         height: 241.54551696777344px;
+         width: 340px;
+         left: 18px;
+         top: 779px;
+         border-radius: 0px;
+     }
+
+
+     .how-it-works-text-big {
+         height: 86px;
+         width: 311px;
+         left: 32px;
+         top: 657px;
+         border-radius: nullpx;
+         font-family: Nunito Sans;
+         font-size: 14px;
+         font-weight: 400;
+         line-height: 19px;
+         letter-spacing: 0em;
+         text-align: left;
+     }
+
+     .online-Control {
+         margin-left: 75px;
+         margin-bottom: 100px;
+         height: 26px;
+         width: 224px;
+         left: 76px;
+         top: 1260px;
+         border-radius: nullpx;
+     }
+
+     .img-1 {
+         margin-top: -60%;
+         height: 207px;
+         width: 340px;
+     }
+
+
+     .img-2 {
+         margin-top: -30%;
+     }
+
+
+
+     .section-3-text-1 {
+         margin-top: 30%;
+         height: 106.945068359375px;
+         width: 340px;
+         left: 18px;
+         border-radius: nullpx;
+         font-family: Nunito Sans;
+         font-size: 11px;
+         font-weight: 400;
+         line-height: 19px;
+         letter-spacing: 0em;
+         text-align: center;
+     }
+
+     .form-login {
+         margin: 0;
+
+         width: 340px;
+         border-radius: 0px;
+     }
+
+     .label-checked {
+         padding: 0%;
+         margin-top: 20px;
+         margin-left: 26px;
+     }
+
+     .label-input {
+         margin: 0%;
+     }
+
+
+     .next {
+         margin-top: 20%;
+     }
+
+     .img-4 {
+         display: none;
+     }
+
+
+     #Phone {
+         display: none;
+     }
+
+     #Uname {
+         display: none;
+     }
+
+     input+input {
+         margin-left: 15px;
+     }
+
+     .input-1 {
+         margin-left: 35px;
+         height: 45px;
+         width: 340px;
+         left: 18px;
+         border-radius: 0px;
+
+     }
+
+
+     #Login {
+         margin-top: 15px;
+         height: 51px;
+         width: 320px;
+         border-radius: 0px;
+     }
+
+     .periphery-photo {
+         margin-top: 120%;
+         flex-direction: column;
+         height: 365.1530456542969px;
+         width: 340px;
+         left: 18px;
+         border-radius: 0px;
+
+     }
+
+     .periphery-photo-galery1 {
+         margin-top: 200px;
+         height: 484px;
+         width: 340px;
+         left: 18px;
+         border-radius: 0px;
+     }
+
+
+     .periphery-head-text {
+         flex-direction: column;
+         height: 241px;
+         width: 270px;
+         border-radius: 0px;
+
+     }
+
+     .periphery-2 {
+         display: none;
+     }
+
+
+     .img-money-oll {
+         display: none;
+     }
+
+     .periphery-2-img {
+         display: none;
+
+     }
+
+     .img-height {
+         display: none;
+     }
+
+
+
+
+     .Redecorating-text {
+         font-family: Nunito Sans;
+         font-size: 11px;
+         font-weight: 400;
+         line-height: 16px;
+         letter-spacing: 0em;
+         text-align: left;
+
+     }
+
+     .Overhaul-text {
+         font-family: Nunito Sans;
+         font-size: 11px;
+         font-weight: 400;
+         line-height: 16px;
+         letter-spacing: 0em;
+         text-align: left;
+
+     }
+
+
+     .Designer-text {
+         font-family: Nunito Sans;
+         font-size: 11px;
+         font-weight: 400;
+         line-height: 16px;
+         letter-spacing: 0em;
+         text-align: left;
+
+     }
+
+
+
+     .Redecorating {
+         height: 241px;
+         width: 270px;
+         margin-top: 35%;
+         margin-bottom: 120%;
+     }
+
+
+
+     .Overhaul {
+         height: 241px;
+         width: 270px;
+         left: 18px;
+         top: 3589px;
+         border-radius: 0px;
+         margin-bottom: 120%;
+     }
+
+     .Designer {
+         height: 241px;
+         width: 270px;
+         left: 18px;
+         border-radius: 0px;
+
+     }
+
+     .galery {
+         background: none;
+     }
+
+     .galery-fon {
+         flex-direction: column;
+         background: none;
+     }
+
+     .galery-text-header {
+         margin-top: 130%;
+         height: 66px;
+         width: 340px;
+         left: 18px;
+         border-radius: nullpx;
+         font-family: Yeseva One;
+         font-size: 22px;
+         font-weight: 400;
+         line-height: 30px;
+         letter-spacing: 0em;
+         text-align: center;
+
+     }
+
+
+     .galery-header {}
+
+     .galery-text {
+         display: none;
+     }
+
+     .galery-head {}
+
+     .galery-img-one {}
+
+     .galery-img10 {
+         margin-top: 27%;
+         margin-left: 0;
+         height: 242px;
+         width: 340px;
+         left: 18px;
+
+     }
+
+     .galery-img7 {
+         display: none;
+     }
+
+     .galery-img-two {
+         display: none;
+     }
+
+     .galery-img8 {}
+
+     .galery-img9 {}
+
+     .section-6 {
+         display: none;
+     }
+
+
+     .question {
+         background: #131313;
+     }
+
+     .question-fon {}
+
+     .question-input {}
+
+     #question-form {
+         padding: 0;
+         height: 419px;
+         width: 375px;
+         left: 18px;
+         border-radius: 0px;
+
+     }
+
+     #question-head {
+         height: 26px;
+         width: 257px;
+         left: 59px;
+         border-radius: nullpx;
+     }
+
+     .head-form {}
+
+     .form-flex {}
+
+     .form-input {
+         margin-top: 15px;
+     }
+
+     .input-name {
+         display: flex;
+         flex-direction: column;
+         align-content: space-around;
+         justify-content: space-evenly;
+         align-items: flex-end;
+         flex-wrap: wrap;
+     }
+
+     .flex-name {
+         padding: 15px;
+     }
+
+     .titles-header {
+         display: none;
+     }
+
+     .form-titles {
+         height: 45px;
+         width: 340px;
+         border-radius: 0px;
+     }
+
+     .flex-phone {
+         margin: 0;
+         padding: 15px;
+     }
+
+     .input-name-question {
+
+         margin-top: 20px;
+     }
+
+     .flex-email {}
+
+     .form-titles-email {
+         margin-left: 15px;
+         height: 45.0369873046875px;
+         width: 340px;
+         left: 18px;
+         border-radius: 0px;
+
+
+     }
+
+     .form-checked {}
+
+     .form-checked-input {}
+
+     .checked-input-text {}
+
+     .form-button {}
+
+     .map {}
+
+     .map-head {
+         height: 133.21022033691406px;
+         width: 340px;
+         left: 18px;
+         border-radius: 0px;
+
+     }
+
+     .map-link {
+         display: none;
+     }
+
+     .map-yandex {
+         display: none;
+     }
+
+     footer {
+         display: none;
+     }
+
+ }

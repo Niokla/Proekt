@@ -1,0 +1,175 @@
+.form-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 250px;
+}
+
+
+.input-1[type=text] {
+    padding: 11px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    box-sizing: border-box;
+}
+
+input+input {
+    margin-left: 57px;
+}
+
+
+/* Set a style for all buttons */
+#Login {
+    color: white;
+    padding: 18px 75px;
+    margin: 0px 48px;
+    border: none;
+    background: #E3B873;
+    box-shadow: 0px 15px 15px rgba(227, 184, 115, 0.15);
+    border-radius: 2px;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
+}
+
+
+
+.label-input {
+    margin-left: 326px;
+    margin-top: 91px;
+}
+
+
+#Uname {
+    position: relative;
+    display: block;
+    z-index: 2;
+    color: rgba(54, 54, 54, 0.5);
+    padding-left: 20px;
+    margin-bottom: -20px;
+
+}
+
+#Phone {
+    position: relative;
+    display: block;
+    z-index: 2;
+    color: rgba(54, 54, 54, 0.5);
+    padding-left: 307px;
+    margin-bottom: -20px;
+}
+
+.label-checked {
+    padding: 33px 500px;
+    margin-bottom: 100px;
+}
+
+#label-checked-color {
+    color: #181818;
+}
+
+
+/* periphery-2-input */
+
+
+.periphery-2-input-oll {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    background: #131313;
+    box-shadow: 0px 30px 30px rgba(0, 0, 0, 0.05);
+}
+
+
+
+.titles {
+    padding: 20px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.5);
+    width: 140px;
+    z-index: 1;
+
+}
+
+#form_message {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-top: 320px;
+    margin-left: 131px;
+    padding: 18px;
+}
+
+#form_message,
+textarea {
+    height: 400px;
+    width: 506px;
+}
+
+#submit {
+    height: 50px;
+    float: right;
+}
+
+#form_message h2 {
+    text-align: center;
+}
+
+.label-checked-color-2 {
+    margin: 20px;
+    padding: 010px;
+}
+
+.input-2 {
+    color: #FFFFFF;
+    padding: 11px 140px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    box-sizing: border-box;
+    background-color: #131313;
+}
+
+
+#head-input {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#Call-button {
+    color: white;
+    padding: 15px 15px;
+    margin-left: 312px;
+    border: none;
+    background: #E3B873;
+    box-shadow: 0px 15px 15px rgba(227, 184, 115, 0.15);
+    border-radius: 2px;
+}
+
+#tixt-checked-2 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 163.68%;
+    color: #FFFFFF;
+}
+
+.flex-input {
+    display: inline-block;
+}
